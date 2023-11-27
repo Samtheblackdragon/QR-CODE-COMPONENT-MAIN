@@ -25,7 +25,7 @@ This was my first time using Frontend Mentor to develop a frontent design into w
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Github repository](https://github.com/Samtheblackdragon/QR-CODE-COMPONENT-MAIN)
 - Live Site URL: [Github Pages](https://samtheblackdragon.github.io/QR-CODE-COMPONENT-MAIN/)
 
 ## My process
